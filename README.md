@@ -26,6 +26,7 @@
 - Kotlin
 - Flutter
 - MVVM 패턴
+- MVC 패턴
 - Coroutine
 
 ### BackEnd
@@ -45,6 +46,7 @@
 ### 아이들을 위한 받아쓰기 앱
 
 - Flutter
+- MVC 패턴
 - SQLite
 
 ### 모임 관리 앱
