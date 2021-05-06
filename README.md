@@ -12,7 +12,6 @@
 ### Contact & Channel
 
 - Email | chajiwon100785@gmail.com
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Cha-Ji)GitHub | [https://github.com/Cha-J](https://github.com/Cha-Ji)i
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://cha-ji.tistory.com)  Blog | [https://cha-ji.tistory.com](https://cha-ji.tistory.com/)
 
 ### Datapia
@@ -34,4 +33,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cha-Ji)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Cha-Ji)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Cha-Ji)
