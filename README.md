@@ -12,8 +12,9 @@
 ### Contact & Channel
 
 - Email | chajiwon100785@gmail.com
-- Blog | [tistory](https://cha-ji.tistory.com/)
+- Blog | [Tistory](https://cha-ji.tistory.com/)
 - SulGoRe | [Notion](https://www.notion.so/sulgore/b27bb3cdd99b4613a4bd601b03f112ea)
+- DSC | [Tistory](https://dsc-pknu.tistory.com)
 
 ### Datapia
 
