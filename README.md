@@ -33,5 +33,9 @@
 
 2016.03 ~ 2023.02
 
+### 부스트캠프 6기 (Android)
+
+2021.07 ~
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cha-Ji)](https://github.com/anuraghazra/github-readme-stats)
 
