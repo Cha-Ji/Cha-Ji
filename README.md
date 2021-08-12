@@ -18,9 +18,9 @@
 
 ### Experience
 - Datapia: 2020.09 ~ 2021.02
-- DSC (Developer Students Club): 2020.09 ~
-- SulGore: 2020.07 ~
-- 부경대학교 컴퓨터공학과: 2016.03 ~ 2023.02
+- GDSC PKNU(Core): 2020.09 ~
+- SulGore(Leader): 2020.07 ~
+- 부경대학교 컴퓨터공학과(휴학): 2016.03 ~
 - 부스트캠프 6기 (Android): 2021.07 ~
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cha-Ji)](https://github.com/anuraghazra/github-readme-stats)
