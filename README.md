@@ -6,7 +6,7 @@
 
 ### Introduction
 
-- 다양하 사람들과의 협업에 대해 고민합니다.
+- 다양한 사람들과의 협업에 대해 고민합니다.
 - 앱 프로그래밍에 관심을 갖고 있습니다.
 
 ### Contact & Channel
@@ -18,8 +18,8 @@
 
 ### Experience
 - Datapia: 2020.09 ~ 2021.02
-- GDSC PKNU(Core): 2020.09 ~
-- SulGore(Leader): 2020.07 ~
+- GDSC PKNU: 2020.09 ~ 2021.08
+- GDSC PKNU(Core): 2021.09 ~
 - 부경대학교 컴퓨터공학과(휴학): 2016.03 ~
 - 부스트캠프 6기 (Android): 2021.07 ~
 
