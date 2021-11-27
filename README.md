@@ -16,7 +16,7 @@
 
 - Email | chajiwon100785@gmail.com
 - Phone | 010-5454-5271
-- Indroduction | [Notion](https://chaji.notion.site/f9aa5c4c351a49dca43f91f6870ba2ab)
+- Abount Me | [Notion](https://chaji.notion.site/f9aa5c4c351a49dca43f91f6870ba2ab)
 - Blog | [Tistory](https://cha-ji.tistory.com/)
 - SulGoRe | [Notion](https://www.notion.so/sulgore/b27bb3cdd99b4613a4bd601b03f112ea)
 - GDSC | [Tistory](https://dsc-pknu.tistory.com)
