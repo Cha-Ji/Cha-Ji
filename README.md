@@ -18,12 +18,10 @@
 - Phone | 010-5454-5271
 - Abount Me | [Notion](https://chaji.notion.site/f9aa5c4c351a49dca43f91f6870ba2ab)
 - Blog | [Tistory](https://cha-ji.tistory.com/)
-- SulGoRe | [Notion](https://www.notion.so/sulgore/b27bb3cdd99b4613a4bd601b03f112ea)
-- GDSC | [Tistory](https://dsc-pknu.tistory.com)
 
 ### Experience
 - Datapia: 2020.09 ~ 2021.02
-- GDSC PKNU: 2020.09 ~ 2021.08
-- GDSC PKNU(Core): 2021.09 ~
+- [GDSC PKNU](https://dsc-pknu.tistory.com): 2020.09 ~ 2021.08
+- [GDSC PKNU(Core)](https://dsc-pknu.tistory.com): 2021.09 ~
 - 부경대학교 컴퓨터공학과(휴학): 2016.03 ~
 - 부스트캠프 6기 (Android): 2021.07 ~ 2021.12
