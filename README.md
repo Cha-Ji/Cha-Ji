@@ -23,5 +23,5 @@
 - Datapia: 2020.09 ~ 2021.02
 - [GDSC PKNU](https://dsc-pknu.tistory.com): 2020.09 ~ 2021.08
 - [GDSC PKNU(Core)](https://dsc-pknu.tistory.com): 2021.09 ~
-- 부경대학교 컴퓨터공학과(휴학): 2016.03 ~
+- 부경대학교 컴퓨터공학과(4학년 재학): 2016.03 ~
 - 부스트캠프 6기 (Android): 2021.07 ~ 2021.12
