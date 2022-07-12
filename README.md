@@ -17,11 +17,11 @@
 - Email | chajiwon100785@gmail.com
 - Phone | 010-5454-5271
 - Abount Me | [Notion](https://chaji.notion.site/f9aa5c4c351a49dca43f91f6870ba2ab)
-- Blog | [Tistory](https://cha-ji.tistory.com/)
+- Blog | [Tistory](https://cha-ji.tistory.com/) [Github Page](https://cha-ji.github.io)
 
 ### Experience
 - Datapia: 2020.09 ~ 2021.02
 - [GDSC PKNU](https://dsc-pknu.tistory.com): 2020.09 ~ 2021.08
-- [GDSC PKNU(Core)](https://dsc-pknu.tistory.com): 2021.09 ~
-- 부경대학교 컴퓨터공학과(4학년 재학): 2016.03 ~ 2023.02(예정)
-- 부스트캠프 6기 (Android): 2021.07 ~ 2021.12
+- [GDSC PKNU(Core - 기술팀장)](https://yoon6.notion.site/1bf1975d6567465ab2e2fd56818445a7): 2021.09 ~ 2022.08
+- 부경대학교 컴퓨터공학과(졸업예정자): 2016.03 ~ 2023.02(예정)
+- 부스트캠프 웹모바일 6기 (Android): 2021.07 ~ 2021.12
